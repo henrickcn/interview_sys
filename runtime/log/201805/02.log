@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2018-05-02T22:35:06+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/member/memberlist.html
+[ info ] fs.com/admin/member/memberlist.html [运行时间：0.136008s][吞吐率：7.35req/s] [内存消耗：3,253.92kb] [文件加载：83]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[F:\phpStudy\PHPTutorial\WWW\interview_sys\runtime\temp\fe43da9396f33506a1356ffca60b9c29.php:307]
+---------------------------------------------------------------
+[ 2018-05-02T22:35:29+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/member/memberlist.html
+[ info ] fs.com/admin/member/memberlist.html [运行时间：0.149696s][吞吐率：6.68req/s] [内存消耗：3,253.88kb] [文件加载：83]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[F:\phpStudy\PHPTutorial\WWW\interview_sys\runtime\temp\fe43da9396f33506a1356ffca60b9c29.php:307]
+---------------------------------------------------------------
+[ 2018-05-02T22:35:30+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/member/memberlist.html
+[ info ] fs.com/admin/member/memberlist.html [运行时间：0.129402s][吞吐率：7.73req/s] [内存消耗：3,244.47kb] [文件加载：83]
+[ error ] [4]语法错误: unexpected 'else' (T_ELSE)[F:\phpStudy\PHPTutorial\WWW\interview_sys\runtime\temp\fe43da9396f33506a1356ffca60b9c29.php:307]
+---------------------------------------------------------------
+[ 2018-05-02T23:00:42+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/member/memberadd.html
+[ info ] fs.com/admin/member/memberadd.html [运行时间：0.102727s][吞吐率：9.73req/s] [内存消耗：2,841.00kb] [文件加载：80]
+[ error ] [8]未定义数组索引: mobile[F:\phpStudy\PHPTutorial\WWW\interview_sys\app\admin\logic\Member.php:198]
+---------------------------------------------------------------
+[ 2018-05-02T23:01:05+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/member/memberadd.html
+[ info ] fs.com/admin/member/memberadd.html [运行时间：0.107306s][吞吐率：9.32req/s] [内存消耗：2,841.24kb] [文件加载：80]
+[ error ] [8]未定义数组索引: mobile[F:\phpStudy\PHPTutorial\WWW\interview_sys\app\admin\logic\Member.php:198]
+---------------------------------------------------------------
+[ 2018-05-02T23:03:06+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/member/memberadd.html
+[ info ] fs.com/admin/member/memberadd.html [运行时间：0.116599s][吞吐率：8.58req/s] [内存消耗：2,841.36kb] [文件加载：80]
+[ error ] [8]未定义数组索引: mobile[F:\phpStudy\PHPTutorial\WWW\interview_sys\app\admin\logic\Member.php:198]
+---------------------------------------------------------------
+[ 2018-05-02T23:13:56+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/member/memberlist.html
+[ info ] fs.com/admin/member/memberlist.html [运行时间：0.114887s][吞吐率：8.70req/s] [内存消耗：2,876.96kb] [文件加载：81]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'interview_sys.is_auth_group_auth' doesn't exist[F:\phpStudy\PHPTutorial\WWW\interview_sys\thinkphp\library\think\db\Connection.php:388]
